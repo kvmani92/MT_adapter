@@ -1,0 +1,17 @@
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/UnityEngine.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/UnityEditor.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/UnityEngine.UI.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/UnityEngine.Networking.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/UnityEngine.PlaymodeTestsRunner.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/UnityEngine.Analytics.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/UnityEngine.HoloLens.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/UnityEngine.VR.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/Mono.Cecil.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/Unity.SerializationLogic.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/Unity.DataContract.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/ICSharpCode.NRefactory.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/Unity.UNetWeaver.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/Unity.UNetWeaver.dll.mdb
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/Unity.CecilTools.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/Mono.Cecil.Pdb.dll
+/Users/Mani/Desktop/Dev/unity/MT_audioAdap/Temp/bin/Debug/Mono.Cecil.Mdb.dll
